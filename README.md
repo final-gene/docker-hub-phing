@@ -3,9 +3,6 @@
 
 This is a image to run [phing](https://www.phing.info/).
 
-## Supported tags and respective Dockerfile links
-* `2.16`, `latest` [(2.16/Dockerfile)](https://github.com/finalgene/docker-hub-phing/blob/master/2.16/Dockerfile)
-
 ## How to use this image
 Run the `phing` image:
 
