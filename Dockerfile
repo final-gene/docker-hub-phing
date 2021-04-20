@@ -1,8 +1,8 @@
-FROM finalgene/composer:1.8
+FROM composer:2
 
 LABEL maintainer="frank.giesecke@final-gene.de"
 
-ENV PHING_VERSION=2.16.1
+ENV PHING_VERSION=2.16.4
 
 WORKDIR /usr/local/bin
 
