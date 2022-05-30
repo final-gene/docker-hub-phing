@@ -1,5 +1,4 @@
 # PHING
-[![CircleCI](https://circleci.com/gh/final-gene/docker-hub-phing/tree/master.svg?style=svg)](https://circleci.com/gh/final-gene/docker-hub-phing/tree/master) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f9fe5f8dcd9b49f0b88c2.16f7041d3c0)](https://www.codacy.com/app/final-gene/docker-hub-phing?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=final-gene/docker-hub-phing&amp;utm_campaign=Badge_Grade)
 
 This is a image to run [phing](https://www.phing.info/).
 
