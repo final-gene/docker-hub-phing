@@ -1,6 +1,8 @@
 # PHING
 
-This is a image to run [phing](https://www.phing.info/).
+[![Docker build and publish](https://github.com/final-gene/docker-hub-phing/actions/workflows/publish.yml/badge.svg)](https://github.com/final-gene/docker-hub-phing/actions/workflows/publish.yml)
+
+This is an image to run [phing](https://www.phing.info/).
 
 ## How to use this image
 Run the `phing` image:
