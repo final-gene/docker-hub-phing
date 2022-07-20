@@ -2,7 +2,7 @@ FROM composer:2
 
 LABEL maintainer="frank.giesecke@final-gene.de"
 
-ENV PHING_VERSION=2.16.4
+ENV PHING_VERSION=2.17.4
 
 WORKDIR /usr/local/bin
 
